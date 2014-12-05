@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--Gravity.TOP-->
+	<integer name="gravity">48</integer>
+	<string name="style">INFO</string>
+
+	<!--Toast.LENGTH_SHORT-->
+	<integer name="duration">0</integer>
+	<integer name="yOffset">0</integer>
+	<bool name="queued">false</bool>
+</resources>

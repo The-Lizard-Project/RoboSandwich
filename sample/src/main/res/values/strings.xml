@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">RoboSandwichSample</string>
+	<string name="sandwich1">Default Sandwich</string>
+	<string name="sandwich2">Sandwich with y offset</string>
+	<string name="sandwich3">Long Sandwich</string>
+	<string name="sandwich4">Bottom Sandwich</string>
+	<string name="sandwich5">Negative Sandwich</string>
+	<string name="sandwich6">Positive Sandwich</string>
+	<string name="sandwich7">Positive Sandwich queued</string>
+	<string name="sandwich8">Negative Sandwich queued</string>
+
+</resources>
